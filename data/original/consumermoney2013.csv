@@ -1,5 +1,5 @@
 Item,2013,2014,2015,2016,2017,2018,2019,2020
-Average annual expenditures,"$51,100","$53,495","$55,978","$57,311","$60,060","$61,224","$63,036","$61,334"
+Average annual expenditures,"$51,100.00","$53,495.00","$55,978.00","$57,311.00","$60,060.00","$61,224.00","$63,036.00","$61,334.00"
 ,,,,,,,,
 Food,"6,602","6,759","7,023","7,203","7,729","7,923","8,169","7,316"
 Food at home,"3,977","3,971","4,015","4,049","4,363","4,464","4,643","4,942"
@@ -118,7 +118,7 @@ Pensions and Social Security,"5,209","5,399","6,016","6,509","6,353","6,831","6,
 ,,,,,,,,
 Sources of income and personal taxes:,,,,,,,,
 ,,,,,,,,
-Income before taxes,"$63,784","$66,877","$69,627","$74,664","$73,573","$78,635","$82,852","$84,352"
+Income before taxes,"$63,784.00","$66,877.00","$69,627.00","$74,664.00","$73,573.00","$78,635.00","$82,852.00","$84,352.00"
 Wages and salaries,"50,168","51,889","54,405","57,319","57,590","61,557","64,708","65,449"
 Self-employment income,"3,273","4,284","4,363","6,270","4,506","5,232","5,947","5,808"
 "Social Security, private and government retirement","7,514","7,700","7,801","8,001","8,300","8,664","8,902","9,493"
@@ -137,7 +137,7 @@ Income after taxes*,"56,352","58,364","60,448","64,175","63,606","67,241","71,48
 ,,,,,,,,
 Addenda:,,,,,,,,
 ,,,,,,,,
-Net change in total assets and liabilities,"$11,404","$7,431","$6,937","$8,721","$14,049","$12,679","$10,971","$3,584"
+Net change in total assets and liabilities,"$11,404.00","$7,431.00","$6,937.00","$8,721.00","$14,049.00","$12,679.00","$10,971.00","$3,584.00"
 Net change in total assets,"20,539","15,798","15,442","15,570","23,805","22,521","23,320","24,635"
 Net change in total liabilities,"9,136","8,366","8,504","6,848","9,756","9,842","12,350","21,052"
 ,,,,,,,,
@@ -146,45 +146,3 @@ Other money receipts,737,659,766,718,"1,156",701,"1,201","2,042"
 Mortgage principal paid on owned property,"-1,858","-1,816","-1,757","-1,908","-1,839","-2,227","-2,288","-2,395"
 Estimated market value of owned home,"154,907","160,814","162,749","172,263","186,064","198,612","204,174","221,708"
 Estimated monthly rental value of owned home,882,908,930,971,"1,017","1,071","1,097","1,181"
-,,,,,,,,
-"Gifts of good and services, total (thru 2019)","1,078","1,063","1,249","1,125","1,229","1,206","1,310",c/
-Food,78,75,91,74,88,91,98,c/
-Alcoholic beverages,12,14,15,13,14,15,13,c/
-Housing,201,222,244,238,233,260,248,c/
-Housekeeping supplies,26,23,30,26,33,35,28,c/
-Household textiles,5,9,8,10,7,11,15,c/
-Appliances and miscellaneous housewares,19,22,22,21,20,23,23,c/
-Major appliances,5,8,8,9,7,8,9,c/
-Small appliances and miscellaneous housewares,14,14,14,13,13,16,14,c/
-Miscellaneous household equipment,41,42,48,43,53,50,47,c/
-Other housing,112,127,137,138,120,141,135,c/
-Apparel and services,198,201,253,190,203,212,247,c/
-"Males, 2 and over",51,50,59,51,56,48,57,c/
-"Females, 2 and over",76,69,64,63,73,84,88,c/
-Children under 2,30,31,40,27,32,28,37,c/
-Other apparel products and services,42,52,90,50,43,52,64,c/
-Jewelry and watches,14,16,60,14,9,14,8,c/
-All other apparel products and services,28,36,30,36,34,37,57,c/
-Transportation,100,108,139,101,141,125,133,c/
-Healthcare,35,35,34,28,21,21,38,c/
-Entertainment,89,89,95,95,98,105,100,c/
-"Toys, games, arts and crafts, and tricycles",27,28,29,43,39,36,30,c/
-Other entertainment,62,61,66,52,59,69,70,c/
-Personal care products and services,14,13,16,13,12,18,21,c/
-Reading,5,4,6,4,3,4,3,c/
-Education,274,236,278,276,314,258,296,c/
-All other gifts,72,65,77,92,102,96,113,c/
-,,,,,,,,
-a Data are rounded to the nearest thousands.,,,,,,,,
-b Value is too small to display.,,,,,,,,
-"c Due to changes in data collection, gifts can no longer be parsed out from expenditures.",,,,,,,,
-n.a. Not applicable.,,,,,,,,
-"* Because changes were introduced part way into 2013 for calculating Federal and State taxes, estimates for 2013 are not strictly comparable to prior or subsequent years. Estimates beginning in 2014 are not strictly comparable to earlier years.",,,,,,,,
-"** Because of questionnaire changes for health insurance, estimates beginning in 2014 are not strictly comparable to prior years.",,,,,,,,
-"*** Finance, late, interest charges for student loans was moved from Miscellaneous into Education beginning in 2014 after the expenditure category was broken out separately from other miscellaneous interest and related charges.",,,,,,,,
-# Data collection for this item began in June 2020. Stimulus payments delivered to respondents interviewed in April and May of 2020 were not included in estimation.,,,,,,,,
-"Note: All values have been rounded, and as a result some cell values have been rounded to zero. This is particularly evident in the characteristic section. When data are not reported or are not applicable (i.e., missing values), tabulated cell values have been set to zero.",,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-"Source: Consumer Expenditure Surveys, U.S. Bureau of Labor Statistics, September, 2021",,,,,,,,
